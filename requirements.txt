@@ -1,0 +1,6 @@
+streamlit>=1.50
+pandas
+gspread>=6.0
+numpy
+scipy
+matplotlib
